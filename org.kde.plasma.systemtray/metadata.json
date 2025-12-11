@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Category": "Windows and Tasks",
+        "Description": "Icons are placed left to right.",
+        "EnabledByDefault": true,
+        "FormFactors": [
+            "desktop"
+        ],
+        "Icon": "preferences-desktop-notification",
+        "Id": "org.kde.plasma.systemtray",
+        "License": "GPL-2.0+",
+        "Name": "System Tray Mirrored"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-ContainmentType": "CustomEmbedded"
+}
